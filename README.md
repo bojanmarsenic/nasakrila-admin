@@ -28,3 +28,21 @@ Razvoj i prilagođavanje administrativnog sistema za organizaciju takmičenja, o
 ## Live projekat
 
 https://nasakrila.me
+
+## Screenshots
+
+### Pilots
+
+![Pilots](pilots.png)
+
+### Teams
+
+![Teams](teams.png)
+
+### Results
+
+![Results](results.png)
+
+### Reset
+
+![Reset](reset.png)
