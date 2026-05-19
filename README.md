@@ -1,4 +1,4 @@
-# Nasakrila Admin
+# Nasakrila Admin – Competition Management System
 
 Administrativna aplikacija za upravljanje paraglajding takmičenjima i događajima.
 
@@ -33,16 +33,16 @@ https://nasakrila.me
 
 ### Pilots
 
-![Pilots](pilots.png)
+![Pilots](gh%20nk%201.jpg)
 
 ### Teams
 
-![Teams](teams.png)
+![Teams](gh%20nk%202.jpg)
 
 ### Results
 
-![Results](results.png)
+![Results](gh%20nk%203.jpg)
 
 ### Reset
 
-![Reset](reset.png)
+![Reset](gh%20nk%204.jpg)
