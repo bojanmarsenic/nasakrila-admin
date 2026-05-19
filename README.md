@@ -46,3 +46,11 @@ https://nasakrila.me
 ### Reset
 
 ![Reset](gh%20nk%204.jpg)
+
+## Moja uloga
+
+- Analiza zahteva
+- Implementacija funkcionalnosti
+- PHP prilagođavanja
+- Obrada CSV podataka
+- Testiranje i održavanje sistema
